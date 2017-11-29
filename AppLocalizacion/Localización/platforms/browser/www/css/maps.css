@@ -1,0 +1,29 @@
+body{
+    padding: 20px 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.header{
+    padding: 0 10px;
+    color: #666;
+    background-color: #eee;
+    height: 48.4px;
+    line-height: 48.4px;
+    text-align: center;
+}
+
+.footer{
+    padding: 5px;
+    font-style: italic;
+    font-size: small;
+    text-align: center;
+}
+
+#coords{
+    margin: 20px 0 ;
+    border: 1px solid;
+    height: 500px;
+}
